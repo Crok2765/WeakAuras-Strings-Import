@@ -6,7 +6,7 @@ Strings disponibles en la categoría **Other**.
 |--------|---------|
 | Middle Texture | `Middle Texture.txt` |
 | Judgement Track | `Judgement Track.txt` |
-| | `` |
+| [Rexbe] RGB Cast bar (v2) | `[Rexbe] RGB Cast bar (v2).txt` |
 | | `` |
 | | `` |
 | | `` |
