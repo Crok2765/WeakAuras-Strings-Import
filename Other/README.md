@@ -10,7 +10,7 @@ Strings disponibles en la categoría **Other**.
 | Global - Professions Skill | `Global - Professions Skill.txt` |
 | Raid Tools (Rexbe) | `Raid Tools (Rexbe).txt` |
 | Hunter Aspect´s| `Hunter Aspect´s.txt` |
-| | `` |
+| Crok Interfaz Raid Lider| `Crok Interfaz Raid Lider.txt` |
 | | `` |
 | | `` |
 | | `` |
